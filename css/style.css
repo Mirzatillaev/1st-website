@@ -8,18 +8,15 @@
     height: 200px;
     color: white;
     padding: 40px;
-    
 }
 .nav-bar {
     background: black;
     display: flex;
-    
 }
 .nav-bar a {
     text-decoration: none;
     color: rgb(245, 241, 241);
     padding: 13px;
-    
 }
 .nav-bar a:hover {
     background-color: lightgrey;
@@ -29,13 +26,11 @@
     display: flex;
     flex-wrap: wrap;
     font-size: 13px;
-    
 }
 .side {
     background-color: rgb(239, 244, 248);
     padding: 20px;
     flex: 30%;
-    
 }
 .main {
     padding: 20px; 
