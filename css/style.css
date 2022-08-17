@@ -16,7 +16,7 @@
 .nav-bar a {
     text-decoration: none;
     color: rgb(245, 241, 241);
-    padding: 13px;
+    padding: 14px;
 }
 .nav-bar a:hover {
     background-color: lightgrey;
