@@ -3,14 +3,14 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 .header {
-    background: #1abc9c;
+    background: #22222a;
     text-align: center;
     font-size: 20px;
     color: white;
     padding: 40px;
 }
 .nav-bar {
-    background: black;
+    background: rgb(82, 172, 97);
     display: flex;
 }
 .nav-bar a {
